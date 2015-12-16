@@ -16,6 +16,7 @@
 
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
+    com.qualcomm.location \
     TimeService
 
 # Prebuilt vendor/libs needed for compilation
